@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-Joe-icon.jpg      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
- weibo_username:     LogicParasite
+# weibo_username:     LogicParasite
 #zhihu_username:     qiubaiying
 #github_username:    qiubaiying
 #facebook_username:  baiying.qiu.7
